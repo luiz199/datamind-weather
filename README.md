@@ -22,6 +22,14 @@
     <img src="https://img.shields.io/badge/OpenWeather-API-EB6E4B?style=flat-square&logo=openweathermap" alt="OpenWeather API"/>
   </div>
 
+  <div>
+    <img src="https://img.shields.io/github/actions/workflow/status/luiz199/datamind-weather/ci.yml?branch=main&style=flat-square&logo=githubactions&logoColor=white&label=CI&color=00FF41" alt="CI"/>
+    <img src="https://img.shields.io/github/last-commit/luiz199/datamind-weather/main?style=flat-square&logo=git&logoColor=white&labelColor=0a0f1e&color=00FF41" alt="Last Commit"/>
+    <img src="https://img.shields.io/github/repo-size/luiz199/datamind-weather?style=flat-square&logo=files&logoColor=white&labelColor=0a0f1e&color=00FF41" alt="Repo Size"/>
+    <img src="https://img.shields.io/github/stars/luiz199/datamind-weather?style=flat-square&logo=github&logoColor=white&labelColor=0a0f1e&color=00FF41" alt="Stars"/>
+    <img src="https://img.shields.io/github/license/luiz199/datamind-weather?style=flat-square&logo=opensourceinitiative&logoColor=white&labelColor=0a0f1e&color=00FF41" alt="License"/>
+  </div>
+
   <br/>
   <br/>
 
